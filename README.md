@@ -13,7 +13,7 @@ Computer Vision က AI ရဲ့ အခွဲတစ်ခုဖြစ်ပါ�
 
 စသဖြင့် စိတ်၀င်စားတဲ့သူတွေအတွက် အကျိုးရှိစေမယ့် course ပါ။
 
-လူငယ်တိုင်း ဆွဲခေါ်လာနိုင်ဖို့ ပထမဆုံး ခြေးလှမ်းအနေနဲ့ AVAIRDS နဲ့ Alex Snow School တို ပေါင်းစီပြီး Programing for AI ဆိုတဲ့ Series တွေကို အခုလို့ စတင် မိတ်ဆက်ပေးလိုက်တာ ဖြစ်ပါတယ်။
+လူငယ်တိုင်း ဆွဲခေါ်လာနိုင်ဖို့ ပထမဆုံး ခြေးလှမ်းအနေနဲ့ [**AVAIRDS**](https://www.facebook.com/avairds/) နဲ့  [**Alex Snow School**](https://www.alexsnowschool.org/) တို ပေါင်းစီပြီး Programing for AI  ဆိုတဲ့ Series တွေကို အခုလို့ စတင်  မိတ်ဆက်ပေးလိုက်တာ ဖြစ်ပါတယ်။
 
 ![Introduction to Python Basics](./project_img.png)
 
