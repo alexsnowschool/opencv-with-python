@@ -14,6 +14,5 @@ setup(
     long_description=readme_text,
     author='AVAIRDS',
     url='https://github.com/alexsnowschool/OpenCV-with-Python',
-    license=license_text,
-    packages=find_packages(exclude=('tests',))
+    license=license_text)
 )
