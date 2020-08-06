@@ -18,15 +18,3 @@ Computer Vision က AI ရဲ့ အခွဲတစ်ခုဖြစ်ပါ�
 ![Introduction to Python Basics](./project_img.png)
 
 
-To install dependencies:
-
-```
-python3 -m venv env
-. env/bin/activate
-pip install -r requirements.txt
-```
-
-To run tests:
-```
-nosetests tests
-```
