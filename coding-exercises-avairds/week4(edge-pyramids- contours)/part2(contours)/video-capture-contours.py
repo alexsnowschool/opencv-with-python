@@ -16,7 +16,7 @@ while True:
     upper_blue = np.array([121, 255, 255])
     mask = cv2.inRange(hsv, lower_blue, upper_blue)
 
-    _, contours = cv2.findContours(mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
+    contours, _ = cv2.findContours(mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
 
     for contour in contours:
         area = cv2.contourArea(contour)
